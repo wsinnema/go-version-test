@@ -2,10 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/wsinnema/go-version-test/subpackage"
+	"github.com/wsinnema/go-version-test/lib"
 )
 
 func main() {
-	subpackage.SubPackageVersion()
-	fmt.Println("In between versions")
+	lib.PackageVersion()
 }
