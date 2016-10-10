@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/wsinnema/wsinnema/go-version-test/subpackage"
+	"github.com/wsinnema/go-version-test/subpackage"
 )
 
 func main() {
