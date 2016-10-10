@@ -2,6 +2,6 @@ package subpackage
 
 import "fmt"
 
-func SubPackageVersion() {
+func PackageVersion() {
 	fmt.Println("Not 5 yet")
 }
