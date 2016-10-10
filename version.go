@@ -7,5 +7,5 @@ import (
 
 func main() {
 	subpackage.SubPackageVersion()
-	fmt.Println("v2.0")
+	fmt.Println("In between versions")
 }

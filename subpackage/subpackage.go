@@ -3,5 +3,5 @@ package subpackage
 import "fmt"
 
 func SubPackageVersion() {
-	fmt.Println("v3.0")
+	fmt.Println("Between versions v3.0 and v4.0")
 }
