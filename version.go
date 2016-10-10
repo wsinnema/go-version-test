@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("unstable")
+	fmt.Println("1.0")
 }
