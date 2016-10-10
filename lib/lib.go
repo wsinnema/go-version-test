@@ -7,5 +7,5 @@ import (
 
 func PackageVersion() {
 	subpackage.SubPackageVersion()
-	fmt.Println("Version 4")
+	fmt.Println("Better than 4, but worse than 5")
 }
